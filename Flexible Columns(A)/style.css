@@ -1,7 +1,12 @@
 .row{
-    background-color: aqua;
+    color: white;
+    background-color: #659DA1;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    flex: 1;
 }
 
 .col-2{
-    color:violet
+    color: red;
 }
