@@ -1,0 +1,47 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: grey;
+
+}
+
+.nav-links{
+    display: flex;
+    padding: 10px;
+    justify-content: space-evenly;
+}
+
+body{
+    border: solid white;
+    background: darkblue
+    
+}
+
+h1{
+    color: white;
+    font-family: cursive;
+    padding-left: 30px;
+}
+
+.btn{
+    color: white;
+    background-color: teal;
+    border: solid black;
+    box-shadow: 3px 3px black;
+    font-family: cursive;
+    
+}
+
+.nav-links{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 500px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: white;
+    font-family: cursive;
+}
